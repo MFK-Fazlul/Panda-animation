@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    overflow: hidden;
+}
+.bamboo{
+    background-image: url(bamboo2.jpg);
+    width: 100%;
+    height: 100vh;
+    position: absolute;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.road{
+    background-image: url(road.PNG);
+    width: 100%;
+    height: 50vh;
+    top: 81vh;
+    position: absolute;
+    background-size: cover;
+}
+.panda img{
+    width: 500px;
+    height: 670px;
+    top: 100px;
+    left: 286px;
+    position: absolute;
+
+}
+.fontLeg{
+    width: 500px;
+    height: 670px;
+    top: 103px;
+    left: 7px;
+    position: absolute;
+}
+.backLeg{
+    width: 500px;
+    height: 670px;
+    top: 24px;
+    left: 45px;
+    position: absolute;
+}
